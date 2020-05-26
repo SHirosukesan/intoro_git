@@ -4,3 +4,5 @@ Gitを練習していきます。
 Git add
 Git commit
 Git rm
+
+Git stuatas
