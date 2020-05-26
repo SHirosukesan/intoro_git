@@ -6,3 +6,5 @@ Git commit
 Git rm
 
 Git stuatas
+
+Git diff
